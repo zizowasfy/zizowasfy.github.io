@@ -2,7 +2,7 @@
 layout: page
 title: VET-ENG
 description: Erasmus +KA2 VET-ENG project.
-img: http://img.youtube.com/vi/oxwMDySRGDk/hqdefault.jpg
+img: assets/img/right_crop.jpg
 importance: 2
 category: Bachelor's
 ---
@@ -17,17 +17,26 @@ My work in this project was mostly dedicated to:
 -	Integrating the mechanical design and the electrical board.
 -	Testing and developing for higher output accuracy.
 
-<p align="center">
-<font size="3"> :point_down: Click the picture to watch the video :point_down:</font> 
-</p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/left_crop.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/right_crop.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 
-<p align="center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=oxwMDySRGDk" 
-target="_blank"><img src="http://img.youtube.com/vi/oxwMDySRGDk/hqdefault.jpg" 
-alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
-</p>
-
-<p align="center">
-<font size="4"> Tele-Operated VR control of a Self-Aware robot in a hostile environment</font> 
-</p>
-
+</div>
+<div class="caption">
+     In the photos above is the 3D design model of the 3D printer, Hypercube design, which is designed from scratch on SOLIDWORKS.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3Dprinter.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/specimen.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>    
+</div>
+<div class="caption">
+    On the left, is the real hardward design after manufacturing and assembly. On the right, is the very first specimens that are printed with our 3D printer.
+</div>
