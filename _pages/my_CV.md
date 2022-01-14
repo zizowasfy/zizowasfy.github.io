@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 title: My CV
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
