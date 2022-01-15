@@ -2,7 +2,7 @@
 layout: page
 title: Internship
 description: Bilateral Tele-operation of Kuka Iiwa via Touch haptic device
-img: http://img.youtube.com/vi/veS7uErQFMY/hqdefault.jpg
+img: assets\img\internship.jpg
 importance: 2
 category: Master's
 ---

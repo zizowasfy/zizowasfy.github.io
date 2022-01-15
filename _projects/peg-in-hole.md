@@ -2,7 +2,7 @@
 layout: page
 title: Object detection
 description: Peg-in-Hole task using sensor-fusion F/T sensors and 2D camera image
-img: http://img.youtube.com/vi/n_HIcPXQ81U/hqdefault.jpg
+img: assets\img\object_detection.jpg
 importance: 3
 category: Master's
 ---
