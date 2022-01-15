@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: A list of my publications during my undergraduate and postgraduate years.       ... More to come ... 
 years: [2021, 2020]
 nav: true

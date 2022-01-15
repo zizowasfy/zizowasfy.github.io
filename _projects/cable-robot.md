@@ -2,7 +2,7 @@
 layout: page
 title: Lab project
 description: Tele-operating a Cable-driven robot via Touch haptic device
-img: assets\img\labproject.jpg
+img: assets/img/labproject.jpg
 importance: 1
 category: Master's
 ---

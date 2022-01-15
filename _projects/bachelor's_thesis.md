@@ -2,7 +2,7 @@
 layout: page
 title: Bachelor's Thesis
 description: Tele-operation of a custom-made 7DOF in VR scene
-img: assets\img\bachelor's_thesis.jpg
+img: assets/img/bachelor's_thesis.jpg
 importance: 2
 category: Bachelor's
 ---

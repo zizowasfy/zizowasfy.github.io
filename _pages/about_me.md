@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: <a href='assets\pdf\CV_Abdelaziz_FinalVersion_I.pdf'> MY Curriculum Vitae (CV)</a>
+subtitle: 
 
 profile:
   align: right
@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 <p>&nbsp;</p>
 <!-- ##### :open_file_folder: [***My Curriculum Vitae (CV)***](assets\pdf\CV_Abdelaziz_FinalVersion_I.pdf) -->
- <a href='assets\pdf\CV_Abdelaziz_FinalVersion_I.pdf'> MY Curriculum Vitae (CV)</a>
+<a href='assets/pdf/CV_Abdelaziz_FinalVersion_I.pdf'> :open_file_folder: My Curriculum vitae (CV)</a>
 <p>&nbsp;</p>
 
 ### **Contacts**:
