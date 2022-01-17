@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 <p>&nbsp;</p>
 <!-- ##### :open_file_folder: [***My Curriculum Vitae (CV)***](assets\pdf\CV_Abdelaziz_FinalVersion_I.pdf) -->
-<h5><a href='assets/pdf/CV_Abdelaziz.pdf'> :open_file_folder: My detailed CV</a></h5>
+<h5><a href='assets/pdf/CV_Abdelaziz.pdf'> :open_file_folder: My CV</a></h5>
 <p>&nbsp;</p>
 
 ### **Contact**:
