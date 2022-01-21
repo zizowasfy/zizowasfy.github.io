@@ -8,9 +8,11 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p> From Egypt </p>
-    <p> Currently in Innopolis, Republic of Tatarstan, Russia</p>
-
+    <p> #Robotics #Teleoperation </p>
+    <p> #Human-Robot Interaction</p>
+    <p> #Computer Vision </p>
+    <p> #Machine Learning </p>
+    
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
