@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Abdelaziz W. Shaarawy | blog</title>
+    <title>Abdelaziz W. Shaarawy | Master's Thesis</title>
     <meta name="author" content="Abdelaziz W. Shaarawy" />
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-" />
+    <meta name="description" content="Comparative analysis of a Peg-In-Hole" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -32,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👓</text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://zizowasfy.github.io/blog/">
+    <link rel="canonical" href="https://zizowasfy.github.io/projects/master's_thesis/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -75,8 +74,8 @@
               </li>
 
               <!-- Toogle theme mode -->
-              <div class = "toggle-container">
-                <a id = "light-toggle">
+              <div class="toggle-container">
+                <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </a>
@@ -89,120 +88,45 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+          <header class="post-header">
+            <h1 class="post-title">Master's Thesis</h1>
+            <p class="post-description">Comparative analysis of a Peg-In-Hole</p>
+          </header>
+
+          <article>
+            <p>Tight clearances have always been a posing challenge while performing industrial assembly tasks. In many cases, robotic systems have positional errors larger than the clearance between assembly parts of the task. A Peg-In-Hole setup, with clearance 0.3 mm, is utilized in this thesis to conduct experiments of different approaches: Autonomous, Shared, Offline LfD, and Online LfD. We measure the Success Rate (SR) and Completion Time (CT) as performance indicators in all experiments.
+AUTO:
+The Peg picking part is done autonomously using (Deep Learning and/or Classical) CV techniques to detect the random peg position from the starting area. The Peg insertion part is done using generated masks to detect the hole position; thus, complete the Peg-In-Hole task.
+SHARED:
+The task is performed autonomously until a termination condition occurs; whether the autonomous searching time reaches a timeout or the user decides to take over the control. The user then completes the task via Bi-lateral Tele-operation system.
+Learning from Demonstration (LfD):
+User teleoperated demonstrations (or trials) are utilized to learn a Gaussian Mixture Model (GMM) model encoding the task trajectory in 3D space. Gaussian Mixture Regression (GMR) is used to infer a learned trajectory for performing the Peg-In-Hole task. In this work, 2 LfD frameworks are developed and experimented with a number of 20 trials for the Peg-In-Hole:</p>
+<ul>
+  <li>Offine LfD – First, the user record the demonstrations (3 demonstrations),  learned trajectory is generated, and lastly, the 20 trials are performed using that learned trajectory.</li>
+  <li>Online LfD – During any trial of the 20 trials, the user can take over the control (SHARED) and correct or adjust the trajectory which is recorded as a demonstration for the LfD framework. Hence, the learned trajectory is continuously enhanced throughout the 20 trials of the Peg-In-Hole task.</li>
+</ul>
+
+<p>Please refer to the Video for more details <img class="emoji" title=":point_down:" alt=":point_down:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png" height="20" width="20"></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2F8oRTPPH9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+</p>
 
 
-  <ul class="post-list">
-    
+          </article>
 
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2021/diagrams/">a post with diagrams</a>
-      </h3>
-      <p>an example of a blog post with diagrams</p>
-      <p class="post-meta"> 3 min read &nbsp; &middot; &nbsp;
-        July 4, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
-
-          
-
-          
-    </p>
-    </li>
-
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a>
-      </h3>
-      <p>an example of a distill-style blog post and main elements</p>
-      <p class="post-meta"> 7 min read &nbsp; &middot; &nbsp;
-        May 22, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
-
-          
-
-          
-    </p>
-    </li>
-
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a>
-      </h3>
-      <p>a quick run down on accessing github metadata.</p>
-      <p class="post-meta"> 1 min read &nbsp; &middot; &nbsp;
-        September 28, 2020
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2020">
-          <i class="fas fa-calendar fa-sm"></i> 2020 </a>
-
-          
-
-          
-          &nbsp; &middot; &nbsp;
-            
-            <a href="/blog/category/sample-posts">
-              <i class="fas fa-tag fa-sm"></i> sample-posts</a> &nbsp;
-              
-            <a href="/blog/category/external-services">
-              <i class="fas fa-tag fa-sm"></i> external-services</a> &nbsp;
-              
-          
-    </p>
-    </li>
-
-    
-  </ul>
-
-  <nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li><li class="page-item active"><a class="page-link" href="/blog/index.html" title="blog">1</a></li>
-      <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
-
-</div>
+        </div>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2024 Abdelaziz W. Shaarawy. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+        © Copyright 2024 Abdelaziz W. Shaarawy. Powered by <a href="http://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="noopener noreferrer">Unsplash</a>.
 
       </div>
     </footer>
