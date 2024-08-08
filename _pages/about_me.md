@@ -18,11 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
- Postgraduate student studying Robotics and Computer Vision at Innopolis University, Russia. I have spent my undergraduate and graduate years working on projects in the field of mechanical design, electronics, control, automation and robotics. Constantly appointed in technical hardware design and different manufacturing processes. Experienced in developing software programs that serve operational tasks. Acknowledged for showing persistence and teamwork towards assigned roles.
+Robotics Researcher, doing my PhD in Robotics control and human-robot interaction at University of Birmingham. I have spent my undergraduate and postgraduate years working on projects in the field of mechanical design, electronics, control, automation and robotics. Constantly appointed in technical hardware design and different manufacturing processes. Experienced in developing software programs and frameworks that serve operational tasks. Acknowledged for showing persistence and teamwork towards assigned roles.
 
 <p>&nbsp;</p>
 <!-- ##### :open_file_folder: [***My Curriculum Vitae (CV)***](assets\pdf\CV_Abdelaziz_FinalVersion_I.pdf) -->
-<h5><a href='assets/pdf/CV_Abdelaziz.pdf'> :open_file_folder: My CV</a></h5>
+<h5><a href='assets/pdf/My_CV.pdf'> :open_file_folder: My CV</a></h5>
 <p>&nbsp;</p>
 
 ### **Contact**:
