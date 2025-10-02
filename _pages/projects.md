@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: A growing collection of my cool, proud projects.
 nav: true
-display_categories: [Master's, Bachelor's]
+display_categories: [Research, Master's, Bachelor's]
 horizontal: false
 ---
 
