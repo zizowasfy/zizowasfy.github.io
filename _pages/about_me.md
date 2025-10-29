@@ -22,7 +22,7 @@ Robotics Researcher, doing my PhD in Robotics control and human-robot interactio
 
 <p>&nbsp;</p>
 <!-- ##### :open_file_folder: [***My Curriculum Vitae (CV)***](assets\pdf\CV_Abdelaziz_FinalVersion_I.pdf) -->
-<h5><a href='assets/pdf/My_CV.pdf'> :open_file_folder: My CV</a></h5>
+<h5><a href='assets/pdf/Global-Talent_CV.pdf'> :open_file_folder: My CV</a></h5>
 <p>&nbsp;</p>
 
 ### **Contact**:
