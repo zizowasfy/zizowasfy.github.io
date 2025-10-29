@@ -48,3 +48,30 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+/*****************************************************************************
+* Figures
+*****************************************************************************/
+.figure-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.figure-row > figure {
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .figure-row > figure {
+    width: 48%;
+  }
+}
+
+figure img.img-fluid {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.25rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}

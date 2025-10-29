@@ -1,0 +1,517 @@
+[33mcommit 0d64da827aa27932acc62c2dea68c053a715511d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: zizowasfy <abdelazizshaarawy@gmail.com>
+Date:   Thu Oct 2 18:56:57 2025 +0100
+
+    Added my latest publications
+
+[33mcommit c98211bddd9589e4361ff7a4fd13dc35a2fc3ec5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: zizowasfy <abdelazizshaarawy@gmail.com>
+Date:   Thu Aug 8 13:14:51 2024 +0100
+
+    uri version issue 3
+
+[33mcommit bbf3229a613543decc4a52f4acc3cdaa3360c42b[m
+Author: zizowasfy <abdelazizshaarawy@gmail.com>
+Date:   Thu Aug 8 13:04:42 2024 +0100
+
+    uri version issue 2
+
+[33mcommit 2cb636d066764e2b430c91162874d8906dd2fa0e[m
+Author: zizowasfy <abdelazizshaarawy@gmail.com>
+Date:   Thu Aug 8 12:55:02 2024 +0100
+
+    uri version issue
+
+[33mcommit 243b1fbaddd865fd6659306c9b0c3bb6d349cf5a[m
+Author: zizowasfy <abdelazizshaarawy@gmail.com>
+Date:   Thu Aug 8 12:21:35 2024 +0100
+
+    updated my CV, about me section, and added new publication
+
+[33mcommit 3bc8eab149b639a45ff6f19e2d227528370e8626[m
+Author: zizowasfy <abdelazizshaarawy@gmail.com>
+Date:   Sat May 13 19:40:34 2023 +0100
+
+    Added master's thesis properly
+
+[33mcommit 1232f016580ea9afe374c717f2cb2ae94026d12d[m
+Author: zizowasfy <abdelazizshaarawy@gmail.com>
+Date:   Sat May 13 18:41:21 2023 +0100
+
+    Added master's thesis
+    
+    tesst
+
+[33mcommit 994ecb31bc91c95a66a6ef73502983a42f5ba20e[m
+Author: Abdelaziz Wasfy Abdelaziz Shaarawy <a.shaarawy@innopolis.university>
+Date:   Fri Jan 21 11:25:03 2022 +0300
+
+    update research interests in bio
+
+[33mcommit 7a30f45879259ce39147e199e26e4bdb17b24f5e[m
+Author: Abdelaziz Wasfy Abdelaziz Shaarawy <a.shaarawy@innopolis.university>
+Date:   Mon Jan 17 18:29:57 2022 +0300
+
+    update the bachelor's thesis title in the CV
+
+[33mcommit 509ff34e99c0553b3a230676b4cb2c585321a327[m
+Author: Abdelaziz Wasfy Abdelaziz Shaarawy <a.shaarawy@innopolis.university>
+Date:   Mon Jan 17 18:16:07 2022 +0300
+
+    update the CV and projects' description
+
+[33mcommit cb569178d275872751fa5a15c4c90d4c97012343[m
+Author: Abdelaziz Wasfy Abdelaziz Shaarawy <a.shaarawy@innopolis.university>
+Date:   Sat Jan 15 22:07:46 2022 +0300
+
+    update CV font
+
+[33mcommit 926983337297ba4fef7fafb539565874343955af[m
+Author: Abdelaziz Wasfy Abdelaziz Shaarawy <a.shaarawy@innopolis.university>
+Date:   Sat Jan 15 15:14:54 2022 +0300
+
+    Changed prof_pic
+
+[33mcommit 3e3a30121a06e26008d0323cb7ae91f4ff982658[m
+Author: Abdelaziz Wasfy Abdelaziz Shaarawy <a.shaarawy@innopolis.university>
+Date:   Sat Jan 15 13:58:13 2022 +0300
+
+    fixed the projects pictures and My CV
+
+[33mcommit af7cef7e60547f7988a08993a96c308cbb83a8c7[m
+Author: Abdelaziz Wasfy Abdelaziz Shaarawy <a.shaarawy@innopolis.university>
+Date:   Sat Jan 15 02:39:51 2022 +0300
+
+    config update
+
+[33mcommit 7c4895f7a0a8f14ed1f15556604c9052983face0[m
+Author: Abdelaziz Wasfy Abdelaziz Shaarawy <a.shaarawy@innopolis.university>
+Date:   Sat Jan 15 02:20:55 2022 +0300
+
+    change baseurl to blank in config.yml
+
+[33mcommit 113c2aee557b3ce732c1ee6e87ced04b753056e2[m
+Merge: 95b98740 060e6097
+Author: Abdelaziz Wasfy Abdelaziz Shaarawy <a.shaarawy@innopolis.university>
+Date:   Sat Jan 15 02:01:29 2022 +0300
+
+    Finished Vet-Eng and CV in the about page
+
+[33mcommit 95b987406283907ee2c444f4e2e44851b68f0152[m
+Author: Abdelaziz Wasfy Abdelaziz Shaarawy <a.shaarawy@innopolis.university>
+Date:   Sat Jan 15 02:00:21 2022 +0300
+
+    Finished Vet-Eng and CV in the about page
+
+[33mcommit 060e60973530108333dc45d4777160c5fa7364b7[m
+Author: zizowasfy <abdelazizshaarawy@gmail.com>
+Date:   Sat Jan 15 01:09:55 2022 +0300
+
+    Update my_CV.md
+
+[33mcommit 1897e98abf16d2187b7212f51e4d37dbaa77dcc5[m
+Author: zizowasfy <abdelazizshaarawy@gmail.com>
+Date:   Sat Jan 15 00:58:48 2022 +0300
+
+    Update my_CV.md
+
+[33mcommit 89cdf69711df3740df78b35dc0f1d310707025b3[m
+Author: Abdelaziz Wasfy Abdelaziz Shaarawy <a.shaarawy@innopolis.university>
+Date:   Fri Jan 14 18:38:24 2022 +0300
+
+    Finished the publications and MY CV and almost the Projects
+
+[33mcommit 66fa3e9bb996fa54c42c50413b6a8de1d1d45ada[m
+Author: Abdelaziz Wasfy Abdelaziz Shaarawy <a.shaarawy@innopolis.university>
+Date:   Tue Jan 11 22:23:25 2022 +0300
+
+    1st change in profile page
+
+[33mcommit 80923389748fa36070942190409ed9d67d0dbc4b[m
+Author: zizowasfy <a.shaarawy@innopolis.university>
+Date:   Tue Jan 11 20:37:30 2022 +0300
+
+    first commit for me
+
+[33mcommit b715177d132db9bacdbf10bedb515010d2fb09eb[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Mon Jan 3 08:50:53 2022 -0500
+
+    Correctly slugify distill TOC (#519)
+    
+    * Correctly slugify distill TOC
+    
+    * Add special character to demo distill post's TOC
+
+[33mcommit 17329fca3a91a19bffe7532b5ba3ff5696517f1f[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Fri Dec 31 19:47:19 2021 +0300
+
+    Fix distill dark mode again (#517)
+
+[33mcommit b950fc3fdb8ee689b409442b135cf7c755d3ce7d[m
+Author: José M. Requena Plens <joreple@upv.es>
+Date:   Fri Dec 31 17:46:42 2021 +0100
+
+    Better SEO, OpenGraph, schema.org and clean generated code (#481)
+
+[33mcommit 7f532552e4635682b6700cf7a5283afbd2c3b676[m
+Author: Julian Lehrer <jmlehrer@ucsc.edu>
+Date:   Thu Dec 23 04:36:48 2021 -0800
+
+    Update 2015-10-20-math.md (#514)
+    
+    Typo
+
+[33mcommit 4d2812913cbea9ba3edd6df781c5eca6040466e0[m
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Wed Dec 22 11:57:28 2021 +0330
+
+    Delete assets/resized directory from GIT (#440)
+
+[33mcommit 0e3cff9137991bde1c1c4f8451d1dfee0c4b95b2[m
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Wed Dec 22 13:43:52 2021 +0530
+
+    Use WebP responsive images (#498)
+    
+    This PR replaces the jekyll-responsive-images with jekyll-imagemagick for responsive WebP images.
+    
+    WebP images are much smaller compared to PNG and JPEG, faster to load and most of the modern browsers recommend it.
+    
+    More information about WebP images: https://developers.google.com/speed/webp
+
+[33mcommit 1e4e147d8fa346804bc36f71ca546185300c7576[m
+Author: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+Date:   Thu Nov 25 21:48:52 2021 -0500
+
+    Switch to uing <picture> for responsive images
+
+[33mcommit d574787abd9aa2201820c9da6d27379f1b2d8b85[m
+Author: Nipuna Weerasekara <w.nipuna@gmail.com>
+Date:   Fri Nov 26 07:11:27 2021 +0530
+
+    Add a website to list of academics websites (#473)
+
+[33mcommit 8de1ad4dee3516f6665d5430aed45bb36440553e[m
+Author: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+Date:   Thu Nov 25 20:36:47 2021 -0500
+
+    Fix a small bug in _includes/responsive_img.html
+    
+    Correctly fixes the issue mentioned in #471.
+
+[33mcommit a0cfbbd1d3026977d787e5c58cd55469819ebddf[m[33m ([m[1;33mtag: v0.4.1[m[33m)[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Nov 21 17:18:23 2021 -0500
+
+    Add TOC to distill blog posts (#470)
+
+[33mcommit 7f10dc3ec900f43b178c8ac250e9065c0c27f61b[m
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Mon Nov 22 01:35:46 2021 +0530
+
+    Lighthouse enhancements (#445)
+
+[33mcommit b45b2475018cda946a1ea825ef408118db504540[m
+Author: Xiaochen Zhu <42903201+zhxchd@users.noreply.github.com>
+Date:   Mon Nov 22 02:48:43 2021 +0800
+
+    Fix broken read_time in blog/index.html (#469)
+
+[33mcommit 5612275e48e68e44835f32a2402bd8c61f69b887[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Nov 21 11:55:39 2021 -0500
+
+    Revert "remove extra space in profile image path (#451)" (#468)
+    
+    This reverts commit 0a8bfb4f0f59bd8551979f74241d731a77229b48.
+
+[33mcommit 0a8bfb4f0f59bd8551979f74241d731a77229b48[m
+Author: Karim de Fombelle <karim.defombelle@gmail.com>
+Date:   Thu Nov 11 01:58:16 2021 +0800
+
+    remove extra space in profile image path (#451)
+
+[33mcommit e95f421230161c56fa93c8c946ad9511759c67b1[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Tue Nov 9 09:44:26 2021 -0500
+
+    Update README.md
+
+[33mcommit 47aea315a745aa1d6ad0e59e7827151f179d0a47[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sat Oct 30 19:58:02 2021 -0400
+
+    Update README.md
+
+[33mcommit d500e084f56de2536db304d029beb194a695c28f[m
+Author: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+Date:   Sat Oct 30 19:53:39 2021 -0400
+
+    Remove theming dependence on jquery
+
+[33mcommit 032ff4845cd6f4993bd0174c914c241aae534527[m[33m ([m[1;33mtag: v0.4.0[m[33m)[m
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat Oct 30 17:05:36 2021 -0400
+
+    Add best practices info to README
+
+[33mcommit fe3339d05b30f06c59785542fa2dff08cb29a0e3[m
+Author: Edsuns <edsuns@qq.com>
+Date:   Sun Oct 31 04:59:04 2021 +0800
+
+    Optimize dark theme (#431)
+    
+    * Optimize dark theme
+    
+    * Fix-up
+    
+    * Minor fixes
+    
+    Co-authored-by: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+
+[33mcommit 1c52125635266c6561a07b065b4430911b9a4811[m
+Author: Dinesh Natesan <AbstractGeek@users.noreply.github.com>
+Date:   Sun Oct 31 02:28:42 2021 +0530
+
+    Added Jekyll-Archives (for tags, categories) and Jekyll site-map (#346)
+    
+    * Add webpage to academic pages list
+    
+    * adding panelbear analytics
+    
+    * added categories for projects and horizontal mode display for projects
+    
+    * rewrote the code to ensure it works properly with current project definitions
+    
+    * Style adjustments
+    
+    * added blockquote format, jekyll-archives, tag, year archive pages, and reading time.
+    
+    * added archive meta to blog posts list and individual posts.
+    
+    * added sitemap
+    
+    * stylistic modifications to jekyll-archive addition
+    
+    * Minor fixes
+    
+    Co-authored-by: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+
+[33mcommit 174024e76cb1bfe6ad442990184f82bc8a87a5ae[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sat Oct 30 16:26:55 2021 -0400
+
+    Add support for responsive images (#439)
+
+[33mcommit 9c36be1320e770ce81a0e8671a74a254d24ac2be[m
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Sat Oct 30 23:56:37 2021 +0330
+
+    Optimize Website Load Time (#435)
+    
+    * Place js files after body tag
+    
+    * Add Analytics to the end of script
+    
+    * Minor nits and fixes
+    
+    Co-authored-by: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+
+[33mcommit 696894549b952437465ed4305aec89a03a3b203a[m
+Author: José M. Requena Plens <joreple@upv.es>
+Date:   Sat Oct 30 03:31:46 2021 +0200
+
+    Update deploy.yml (#436)
+    
+    ‘action’ is deprecated, change to ‘ruby’
+    https://github.com/ruby/setup-ruby
+
+[33mcommit ae9ecf29e017096388c167e4eab4800eab84486e[m
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Fri Oct 22 19:15:37 2021 +0330
+
+    Adding month to publication section (#433)
+
+[33mcommit ed1a9eeacce507ff4e8cad0a559548a09df6a921[m
+Author: Steven Rick <srick@eng.ucsd.edu>
+Date:   Thu Oct 21 17:02:37 2021 -0700
+
+    adds color transition support to li elements (#434)
+
+[33mcommit 1b64518c65e901c0bca285a92b020e2e7fd4bfbb[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Wed Oct 13 09:40:39 2021 -0400
+
+    Update README.md
+
+[33mcommit 533bed5c080802512e812c9fb769dcdf20e052a9[m
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sat Oct 9 06:21:38 2021 +0530
+
+    Add RSS icon to social.html (#418)
+    
+    * Add rss icon
+    
+    * Add a blank line to make sure rss icon is always at the last
+
+[33mcommit 1d974faad964675ea22e99a08f7d7d6dd7243eca[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Thu Oct 7 11:46:18 2021 -0400
+
+    Update README.md
+
+[33mcommit eea0e5fd239fe6dcd81a9dd1d85f4b2cc41a5551[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Tue Oct 5 10:05:21 2021 -0400
+
+    Update README.md
+
+[33mcommit 52fcd07cf13e665e6d6c3849f5c42ca852497d31[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Oct 3 21:44:24 2021 -0400
+
+    Update README.md
+
+[33mcommit cd4b382799b87d70c59325f44c0f77f375525d92[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Oct 3 18:26:29 2021 -0700
+
+    Add jekyll-diagrams (#333)
+    
+    * Add mermaid support via jekyll-diagrams
+    
+    * Add mermaid install to deploy workflow
+
+[33mcommit 6b0bf878460d966d5e8f4f0425ce8aa9ce1c78da[m
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Mon Oct 4 04:46:05 2021 +0330
+
+    add jekyll target blank plugin (#404)
+    
+    * add jekyll target blank
+    
+    * Remove manual target blank from everywhere
+    
+    * Update README.md
+    
+    * Set ruby version to 3.0.2 in the deploy script
+    
+    Co-authored-by: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+
+[33mcommit 3ca88834a2c334f0b44184bae42750a5e1cf3910[m
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Mon Oct 4 05:36:46 2021 +0530
+
+    Add 404.html (#412)
+
+[33mcommit ce15b088f976fb6b91806d3092d363edff345742[m
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Sat Sep 25 22:23:53 2021 +0330
+
+    add stackoverflow id (#400)
+
+[33mcommit 895063a6251cf8ec553064748db68398456a800f[m
+Author: Maik Wöhl <maik.woehl@googlemail.com>
+Date:   Wed Sep 8 06:48:20 2021 +0200
+
+    Add 'main' branch for newer GitHub repositories (#389)
+
+[33mcommit 0885f49f6bffa3e57e8e96242fcbd9a682f3b108[m
+Author: Sebastian Daza <sebastian.daza@gmail.com>
+Date:   Wed Sep 8 06:25:26 2021 +0200
+
+    add website (#383)
+
+[33mcommit b3237675354edb7af942ef667c09a2f21e9d80e8[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Fri Aug 27 08:59:34 2021 -0400
+
+    Revert jekyll-scholar bibtex filters (#381)
+    
+    * Revert "Fix latex rendering issue in the bibliography entries (#358)"
+    
+    This reverts commit e328dc6abea53a3cb5cd9cf146766d2abe73cfd8.
+    
+    * Update mathjax version to 3.2.0
+    
+    * Add bibtex_filters explicitly to _config.yml
+
+[33mcommit 04f526db5d303aa3ce8c5e62089b7b6a0862f6a9[m
+Author: Julian Streyczek <82290284+JulianStreyczek@users.noreply.github.com>
+Date:   Tue Aug 17 13:49:53 2021 +0200
+
+    minor updates to CONTRIBUTING and LICENSE, add website (#365)
+
+[33mcommit 5a655959189e13a49f3ad7e2f7af28002cbc44ca[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Mon Aug 16 13:16:26 2021 -0400
+
+    Revert "Change gitcdn link (#234)" (#364)
+    
+    This reverts commit 0e4df831af177408965e18d49343473038533f3d.
+
+[33mcommit f4c01acac710f8b4d9dea317d12b212a406552d2[m[33m ([m[1;33mtag: v0.3.8[m[33m)[m
+Author: Riddhiman Adib <adib2149@gmail.com>
+Date:   Sat Aug 7 15:51:48 2021 -0500
+
+    adds submenu in navigation bar. (fixes issue #159) (#334)
+    
+    * adds submenu in navigation bar. (fixes issue #159)
+    
+    * Updated scss files to change hover animations on dropdown submenus, on both dark mode and light mode
+
+[33mcommit e328dc6abea53a3cb5cd9cf146766d2abe73cfd8[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sat Jul 31 16:05:30 2021 -0400
+
+    Fix latex rendering issue in the bibliography entries (#358)
+
+[33mcommit 664220e5f82d96b1e7210fcae3a4020856d1200c[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sat Jul 31 12:35:05 2021 -0400
+
+    Update bug_report.md
+
+[33mcommit 5694d43016f265eba003935407d97bc07fe740c5[m
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Jul 25 11:30:58 2021 -0400
+
+    Update _config.yml
+
+[33mcommit 60fc64b924e03332cf2a73ddf47f19aa12506d4a[m
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Wed Jul 21 18:41:03 2021 +0530
+
+    Adds support for sitemap and robots.txt (#337)
+    
+    * Adds support for sitemap
+    
+    * Adds support for robots.txt
+
+[33mcommit 8fe464d30a610ba89219d8de32fc218c1bb713f6[m
+Author: Neeraj Gangwar <553989+neerajgangwar@users.noreply.github.com>
+Date:   Sun Jul 18 20:57:16 2021 +0530
+
+    Correct the documentation for personal/organization and manual deployments (#351)
+
+[33mcommit 4d5f2dccffdec0f88fa80de5b9ba8859f64dad86[m
+Author: Neeraj Gangwar <553989+neerajgangwar@users.noreply.github.com>
+Date:   Sat Jul 17 22:25:43 2021 +0530
+
+    Use master for source code for personal/organization webpages and update the document (#344)
+    
+    Co-authored-by: Neeraj Gangwar <neeraj.gangwar@myntra.com>
+
+[33mcommit 89efedcd57e24398acfc683fe7e5fd16f48c8c3d[m
+Author: Christoph Junghans <junghans@lanl.gov>
+Date:   Tue Jul 6 10:43:13 2021 -0600
+
+    _config.yml: add dblp_url (#336)
+
+[33mcommit 63f278ac927293b0fbf82d268a114d4df209953e[m[33m ([m[1;33mtag: v0.3.7[m[33m)[m
+Author: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+Date:   Mon Jul 5 11:28:30 2021 -0700
+
+    Minor stylistic fixes.
