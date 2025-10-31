@@ -2,7 +2,7 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://zizowasfy.github.io/" />        
+  <head>        
     <!-- Metadata, OpenGraph and Schema.org -->
     
 
@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Abdelaziz W. Shaarawy | Page not found</title>
+    <title>Abdelaziz W. Shaarawy | Task-Parameterized Motion Planner</title>
     <meta name="author" content="Abdelaziz W. Shaarawy" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="Efficient motion planning for robotic manipulation in constrained environments using GMM-Informed RRT planners." />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -31,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👓</text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://zizowasfy.github.io/404.html">
+    <link rel="canonical" href="https://zizowasfy.github.io/projects/tpgmm-rrt/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -92,12 +92,107 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">Task-Parameterized Motion Planner</h1>
+            <p class="post-description">Efficient motion planning for robotic manipulation in constrained environments using GMM-Informed RRT planners.</p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://zizowasfy.github.io/">here</a>.</p>
+            <p>This project introduces novel GMM-Informed RRT planners (GMM-RRT and GMR-RRT) designed to enhance motion planning efficiency and path optimality for robotic manipulation in constrained environments. By integrating Task-Parameterized Gaussian Mixture Models (TP-GMM), trained on human demonstrations, with sampling-based RRT planners, the system generates task-adaptive sampling distributions that guide the search towards feasible and high-quality solutions.</p>
+
+<p>The approach involves projecting tasks to joint space using Jacobian-based inverse kinematics. Implemented within the MoveIt framework, the planners were rigorously evaluated through simulations and 30 real-world Electric Vehicle (EV) battery disassembly trials. Results demonstrate superior performance over baseline planners, yielding significantly shorter paths, reducing path simplification time, and maintaining a 100% success rate.</p>
+
+<h5 id="publication">Publication</h5>
+
+<p>The research conducted in this project has been published in <em>Robotics and Computer-Integrated Manufacturing</em> Journal. You can access the full article through the following link:</p>
+
+<p><a href="https://doi.org/10.1016/j.rcim.2025.103095" target="_blank" rel="noopener noreferrer">Task-Parameterized GMM-Informed RRT Planners for Robotic Manipulation in Constrained Environments</a></p>
+
+<div class="text-center">
+  <figure>
+
+  <!-- <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/tpgmm-rrt_project/system_overview-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/tpgmm-rrt_project/system_overview-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/tpgmm-rrt_project/system_overview-1400.webp" />
+    -->
+
+    <!-- Fallback to the original file -->
+    <img class="img-fluid" src="/assets/img/tpgmm-rrt_project/system_overview.jpg">
+  <!-- </picture> --><figcaption class="caption">System Overview</figcaption>
+
+</figure>
+
+</div>
+
+<hr>
+
+<h3 id="experimental-setup">Experimental Setup</h3>
+
+<p>The experimental environment featured a 7-DOF Panda robotic arm operating in a workspace designed to simulate EV battery disassembly. The setup included scattered obstacles representing battery pack components, target objects such as bolts, and a placeholder area for disassembled parts.
+Depth data from the RealSense camera were processed into a point cloud, then converted into an octomap—a 3D occupancy grid that offers a probabilistic and compact representation of the environment. Within the MoveIt framework, the octomap enhanced motion planning, collision detection, and path optimization, enabling safer navigation in cluttered environments.
+To ensure a reliable simulation-to-reality (sim-to-real) transition, the depth camera was fixed and precisely calibrated with respect to the robot base. The same transformations were mirrored in simulation, allowing real-world depth data to be projected directly into the simulated planning scene.</p>
+
+<figure>
+
+  <!-- <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/tpgmm-rrt_project/tpgmm-rrt-preview-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/tpgmm-rrt_project/tpgmm-rrt-preview-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/tpgmm-rrt_project/tpgmm-rrt-preview-1400.webp" />
+    -->
+
+    <!-- Fallback to the original file -->
+    <img class="img-fluid" src="/assets/img/tpgmm-rrt_project/tpgmm-rrt-preview.jpg" title="">
+  <!-- </picture> --><figcaption class="caption">Experimental setup</figcaption>
+
+</figure>
+
+<h3 id="visual--results">Visual  Results</h3>
+
+<p>The experimental design included five distinct setups per planner, each repeated across ten independent trials, resulting in 50 trials per planner. These setups introduced variability through different obstacle configurations and start/goal poses, ensuring a diverse set of motion planning challenges.
+All start, goal, and obstacle positions were uniformly sampled within a bounded workspace relative to the robot’s base, providing a consistent and unbiased evaluation of planner performance across all scenarios.
+The following images show the results from the benchmark experiments, demonstrating the path efficiency of the developed GMM-Informed planners.</p>
+
+<div class="figure-row">
+<figure>
+
+  <!-- <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/tpgmm-rrt_project/simulation-exps-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/tpgmm-rrt_project/simulation-exps-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/tpgmm-rrt_project/simulation-exps-1400.webp" />
+    -->
+
+    <!-- Fallback to the original file -->
+    <img class="img-fluid" src="/assets/img/tpgmm-rrt_project/simulation-exps.jpg">
+  <!-- </picture> --><figcaption class="caption">Simulation experiments</figcaption>
+
+</figure>
+
+<figure>
+
+  <!-- <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/tpgmm-rrt_project/real-exps-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/tpgmm-rrt_project/real-exps-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/tpgmm-rrt_project/real-exps-1400.webp" />
+    -->
+
+    <!-- Fallback to the original file -->
+    <img class="img-fluid" src="/assets/img/tpgmm-rrt_project/real-exps.jpg">
+  <!-- </picture> --><figcaption class="caption">Real-world experiments</figcaption>
+
+</figure>
+
+</div>
+
+<hr>
+
+<h3 id="video-demonstration">Video Demonstration</h3>
+
+<p>Please watch the video for the full demonstration <img class="emoji" title=":point_down:" alt=":point_down:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png" height="20" width="20"></p>
+
+<p align="center">
+<iframe width="640" height="480" src="https://www.youtube.com/embed/LZvEhICvIQ0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="">
+</iframe>
+</p>
 
           </article>
 
